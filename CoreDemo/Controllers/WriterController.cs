@@ -45,6 +45,7 @@ namespace CoreDemo.Controllers
         public PartialViewResult WriterFooterPartial()
         {
             //53.derste kaldım
+            //Git Deneme
 
             return PartialView();
 
