@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M802+FRG0qa+Pi0knJQPBBGP4Pb35J28bcHFm2/biMy8bIJW9bKHDBz7oXZgNFUaQiD7LN8xjcRiPlGor1EGnw==",
+  "dgSpecHash": "LHr5zeKMCXHilxuWgHO4FKHBcWuZul3znLZfu5O4HJhF/PU5Dv9Ni9kde/mRx3BRk7wd85H4hXMAmeeHs3N04Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\deads\\Desktop\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
+  "projectFilePath": "C:\\Users\\deads\\Desktop\\GitCore\\CoreProject\\CoreDemo\\CoreDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\deads\\.nuget\\packages\\fluentvalidation\\10.3.4\\fluentvalidation.10.3.4.nupkg.sha512",
     "C:\\Users\\deads\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.4\\fluentvalidation.aspnetcore.10.3.4.nupkg.sha512",

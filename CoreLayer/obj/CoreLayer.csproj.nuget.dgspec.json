@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deads\\Desktop\\CoreDemo\\CoreLayer\\CoreLayer.csproj": {}
+    "C:\\Users\\deads\\Desktop\\GitCore\\CoreProject\\CoreLayer\\CoreLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deads\\Desktop\\CoreDemo\\CoreLayer\\CoreLayer.csproj": {
+    "C:\\Users\\deads\\Desktop\\GitCore\\CoreProject\\CoreLayer\\CoreLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deads\\Desktop\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
+        "projectUniqueName": "C:\\Users\\deads\\Desktop\\GitCore\\CoreProject\\CoreLayer\\CoreLayer.csproj",
         "projectName": "CoreLayer",
-        "projectPath": "C:\\Users\\deads\\Desktop\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
+        "projectPath": "C:\\Users\\deads\\Desktop\\GitCore\\CoreProject\\CoreLayer\\CoreLayer.csproj",
         "packagesPath": "C:\\Users\\deads\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deads\\Desktop\\CoreDemo\\CoreLayer\\obj\\",
+        "outputPath": "C:\\Users\\deads\\Desktop\\GitCore\\CoreProject\\CoreLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

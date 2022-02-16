@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vO2CuNknyAZs095OZ136K7NYrY/90mH2jK4Ri7YwVBhBp6cffXE5j7N2WG7q3PVDOV0dmH8KaY3sLepfJecZKQ==",
+  "dgSpecHash": "QwTkvnMo2tRA5bHMXJywkYvepDmEOp/ED5i5A0icXXAm3Edm5jD28+C1djDiGk9RIGbd4CtHSoeXw/JxAr85gA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\deads\\Desktop\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\deads\\Desktop\\GitCore\\CoreProject\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

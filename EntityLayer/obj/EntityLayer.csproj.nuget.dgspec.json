@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deads\\Desktop\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {}
+    "C:\\Users\\deads\\Desktop\\GitCore\\CoreProject\\EntityLayer\\EntityLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deads\\Desktop\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\deads\\Desktop\\GitCore\\CoreProject\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deads\\Desktop\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\deads\\Desktop\\GitCore\\CoreProject\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\deads\\Desktop\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
+        "projectPath": "C:\\Users\\deads\\Desktop\\GitCore\\CoreProject\\EntityLayer\\EntityLayer.csproj",
         "packagesPath": "C:\\Users\\deads\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deads\\Desktop\\CoreDemo\\EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\deads\\Desktop\\GitCore\\CoreProject\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
