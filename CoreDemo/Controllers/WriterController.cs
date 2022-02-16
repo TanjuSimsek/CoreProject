@@ -46,7 +46,7 @@ namespace CoreDemo.Controllers
         {
             //53.derste kaldım
             //Git Deneme
-            //asd
+            //asd denem
             return PartialView();
 
 
